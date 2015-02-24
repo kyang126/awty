@@ -16,10 +16,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".alarmExample"
-            android:label="@string/title_activity_alarm_example" >
-        </activity>
         <receiver android:name=".AlarmReceiver"></receiver>
     </application>
 
